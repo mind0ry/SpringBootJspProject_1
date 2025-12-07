@@ -2,8 +2,8 @@
 우분투 설치 후 우분투에서 스프링 실행<br>
 
 
-<img width="1300" height="806" alt="스크린샷 2025-12-07 오후 7 22 15" src="https://github.com/user-attachments/assets/945ffd22-8709-4b22-8e5e-7219ca36cc93" />
-
+<img width="600" height="400" alt="스크린샷 2025-12-07 오후 7 22 15" src="https://github.com/user-attachments/assets/945ffd22-8709-4b22-8e5e-7219ca36cc93" />
+<br><br>
 
 
 
@@ -14,7 +14,7 @@ sudo apt-get update       # 우분투 패키지 목록 업데이트
 sudo apt-get install git  # Git 설치
 
 java -version             # 자바 설치 확인 (없으면 openjdk 설치)
-# sudo apt-get install openjdk-17-jdk
+sudo apt-get install openjdk-17-jdk
 
 git config --global user.name "깃닉네임"       # Git 사용자 이름 설정
 git config --global user.email "깃이메일"       # Git 이메일 설정
